@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Node JS with functional approach, Java, clouds (aws and azure) and React
 - 🌱 I’m currently learning Node JS, React and The Art of Happiness
-- 📝 I'm try to help with business, project management, programming, requirements, test and quality...
+- 📝 I'm trying to help with business, project management, programming, requirements, test and quality...
 - 💬 Ask me about things in life
 - ⚡  curiosity: I'm an entrepreneur
 
