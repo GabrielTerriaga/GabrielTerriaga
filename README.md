@@ -4,11 +4,11 @@
 
 ### I am a Software Engineer and life enthusiast :leaves: :earth_americas:
 
-- 🔭 I’m currently working on Node JS with functional approach, Java, clouds (aws and azure) and React;
-- 🌱 I’m currently learning Node JS, React and The Art of Happiness;
+- 🔭 I’m currently working on Node JS with functional approach, Java, clouds (aws and azure) and React
+- 🌱 I’m currently learning Node JS, React and The Art of Happiness
 - 📝 I'm try to help with business, project management, programming, requirements, test and quality...
-- 💬 Ask me about things in life;
-- ⚡  curiosity: I'm an entrepreneur;
+- 💬 Ask me about things in life
+- ⚡  curiosity: I'm an entrepreneur
 
 ### Languages and Tools
 <img align="left" alt="aws" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"/>
