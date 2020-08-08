@@ -32,5 +32,5 @@
 
 ---
 
-### Find me on
+### More information about me
 <a href="https://www.linkedin.com/in/gabrielterriaga"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
