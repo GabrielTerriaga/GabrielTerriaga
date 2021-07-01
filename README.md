@@ -27,6 +27,7 @@
 <img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
 <img align="left" alt="springboot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"/>
 <img align="left" alt="unrealengine" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png"/>
+<img align="left" alt="k8s" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"/>
 <br/><br/><br/><br/>
 <img align="center" alt="GabrielTerriaga's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GabrielTerriaga&show_icons=true&hide_border=true&count_private=true&theme=nord" />
 
